@@ -1,0 +1,17 @@
+{
+    "name": "konst/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Konst\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Konstantin",
+            "email": "konst.kazan@gmail.com"
+        }
+    ],
+    "require": {
+        "tightenco/collect": "^9.52"
+    }
+}
