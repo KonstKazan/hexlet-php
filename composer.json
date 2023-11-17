@@ -1,9 +1,9 @@
 {
     "name": "konst/hexlet-php",
     "autoload": {
-        "psr-4": {
-            "Konst\\HexletPhp\\": "src/"
-        }
+	"files": [
+	"src/Runner.php"
+	]
     },
     "authors": [
         {
